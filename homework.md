@@ -26,36 +26,5 @@
 
 
 
-Markdown | не такой | красивый
---- | --- | ---
-*Но выводится* | `так же` | **клево**
-1 | 2 | 3
 
-
-*Курсив* 
-_Курсив_ 
-**Жирный** 
-__Жирный__ 
-***Жирный курсив*** 
-___Жирный курсив___
-
-<code>```
-$a = 5; 
-$b = 3; 
-$c = $a + $b;
-```
-</code>
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-
-* This is the first list item.
-* Here's the second list item.
-
-    > A blockquote would look great below the second list item.
-
-* And here's the third list item.
 
